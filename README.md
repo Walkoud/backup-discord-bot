@@ -2,9 +2,9 @@
 xCloud Private code
 
 
-##Commands:
+## Commands:
 - backup : show backups commands
- - create : Create a backup
+ - - create : Create a backup
  - load : Load a backup
  - delete : Delete a backup
  - rename : Rename a backup
@@ -14,7 +14,7 @@ xCloud Private code
  - setpublic : Set to public a backup
  - listpublic : List of public backup
  
-##Admin Commands:
+## Admin Commands:
 - addadmin : add admin
 - premium : add premium (message max backup unlimited)
 - allbackupstoid : to send all backups to id
