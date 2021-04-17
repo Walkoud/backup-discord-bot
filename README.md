@@ -3,6 +3,7 @@ xCloud Private code
 
 
 ## Commands:
+- -help : show commands
 - -backup : show backups commands
   - create : Create a backup
   - load : Load a backup
