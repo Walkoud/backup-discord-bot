@@ -44,8 +44,8 @@ Téléchargez le zip https://github.com/Walkoud/backup-discord-bot/archive/maste
 -Cliquer sur le fichier Install pour installer les fichiers du bots <br/>
 -Click on Install.bat to install <br/>
 
--Clique droit sur le fichier install2.ps1 et appuyez sur éxecuter <br/>
--Right click on the install2.ps1 file and press "execute"<br/>
+-Clique droit sur le fichier install2.ps1 et appuyez sur "éxecuter avec powershell" <br/>
+-Right click on the install2.ps1 file and press "execute with powershell"<br/>
 
 -Pour démarrer le bot, cliquez sur run.bat et écrivez "node index.js"<br/>
 -Click on run.bat to boot the bot and type "node index.js"<br/>
