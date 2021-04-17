@@ -38,6 +38,9 @@ Téléchargez le zip https://github.com/Walkoud/backup-discord-bot/archive/maste
 -Download Git for Windows [Git](https://git-scm.com/download/win) <br/>
 -Télécharger Git pour Windows [Git](https://git-scm.com/download/win) 
 
+-Download Python for Windows [Git](https://www.python.org/downloads/windows/) <br/>
+-Télécharger Pyhton pour Windows [Git](https://www.python.org/downloads/windows/) 
+
 -Cliquer sur le fichier Install pour installer les fichiers du bots <br/>
 -Click on Install.bat to install <br/>
 
@@ -53,7 +56,7 @@ dans ce cas installez git en utilisant les commandes (dans le dossier du selfbot
 ```sh
 $ apt update && apt upgrade
 $ termux-setup-storage
-$ apt-get install git
+$ apt-get install git && apt-get install python
 $ git clone https://github.com/Walkoud/backup-discord-bot
 $ apt-get install nodejs
 $ cd hap-selfbot-public
