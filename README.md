@@ -4,7 +4,7 @@ xCloud Private code
 
 ## Commands:
 - backup : show backups commands
- -  create : Create a backup
+  - create : Create a backup
  - load : Load a backup
  - delete : Delete a backup
  - rename : Rename a backup
