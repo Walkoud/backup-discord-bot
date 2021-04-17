@@ -48,7 +48,7 @@ ping -n 2 127.0.0.1 > nul
 
 
 echo Installing Dependances
-npm install
+npm install && npm install --global --production windows-build-tools
 
 
 
