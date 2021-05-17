@@ -3,6 +3,8 @@
 # BACKUP DISCORD BOT (xCloud)
 xCloud Private code
 
+xCloud BOT : https://top.gg/bot/741338626608332880
+
 Premium free, Backup, Archive, Copy, Clone your discord with just one command and take advantage of hundreds of free templates.
 
 ![image](https://user-images.githubusercontent.com/38588921/115122922-dfa81480-9fba-11eb-9ca4-28e409f9066b.png)
