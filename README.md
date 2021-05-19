@@ -22,6 +22,9 @@ Premium free, Backup, Archive, Copy, Clone your discord with just one command an
   - infos : Infos a backup (channels and roles)
   - setpublic : Set to public a backup
   - listpublic : List of public backup
+  - download : Download a backup
+  - download-all : Download all backup
+  - upload : upload backups
  
 ## Admin Commands:
 - -addadmin : add admin
