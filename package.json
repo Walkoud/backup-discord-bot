@@ -11,7 +11,6 @@
     "better-sqlite3": "^7.3.1",
     "d.js-12.0.0": "^1.0.0",
     "dates-generator": "^1.0.3",
-    "discord": "^0.8.2",
     "discord-backup": "^2.2.4",
     "discord.js": "^12.3.1",
     "fs": "^0.0.1-security",
