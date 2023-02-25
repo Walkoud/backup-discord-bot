@@ -8,7 +8,7 @@
   },
 "dependencies": {
     "anonfile-lib": "^1.0.1",
-    "better-sqlite3": "*",
+    "better-sqlite3": "7.6.2",
     "dates-generator": "^1.0.3",
     "discord-backup": "^2",
     "discord.js": "^12.3.1",
